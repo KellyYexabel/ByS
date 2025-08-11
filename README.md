@@ -10,6 +10,6 @@ Descargar el repositorio
 https://github.com/KellyYexabel/ByS.git
 - Abrir el proyecto en IDE comendado Intellij IDEA
 - JDK version 8 o suoerior
-- ubicarse en la clase principal
+- ubicarse en la clase principal  src/Main.java
 - Dar clic desde la IDE sobre el Main.java y seleccionar Run
-- 
+  
